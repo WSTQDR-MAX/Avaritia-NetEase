@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "avaritia:diamond_lattice"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:diamond"
+            }
+        },
+        "pattern": [
+            "E E",
+            " E ",
+            "E E"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "avaritia:diamond_lattice"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "unlock": [
+            {
+                "data": 0,
+                "item": "minecraft:diamond"
+            }
+        ]
+    }
+}

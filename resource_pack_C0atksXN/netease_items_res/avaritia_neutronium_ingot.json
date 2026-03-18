@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "yellow",
+            "minecraft:icon": "avaritia:neutronium_ingot",
+            "netease:frame_anim_in_scene": {
+                "texture_path": "textures/items/resource_neutronium_ingot",
+                "ticks_per_frame": 2
+            }
+        },
+        "description": {
+            "identifier": "avaritia:neutronium_ingot"
+        }
+    }
+}

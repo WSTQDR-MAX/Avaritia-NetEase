@@ -1,0 +1,9 @@
+{
+    "category": [
+        {
+            "icon": "textures/items/avaritia_icon",
+            "labelText": "itemCategory.name.avaritia",
+            "name": "avaritia"
+        }
+    ]
+}

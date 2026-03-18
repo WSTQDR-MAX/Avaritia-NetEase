@@ -1,0 +1,38 @@
+[  
+  {
+    "atlas_tile": "avaritia:extreme_crafting_table_top",
+    "flipbook_texture": "textures/blocks/extreme_crafting_table_top",
+    "ticks_per_frame": 2,
+    "blend_frames": true
+  },
+  {
+    "atlas_tile": "avaritia:extreme_crafting_table_side",
+    "flipbook_texture": "textures/blocks/extreme_crafting_table_side",
+    "ticks_per_frame": 2,
+    "blend_frames": true
+  },
+  {
+    "atlas_tile": "avaritia:neutron_collector_front",
+    "flipbook_texture": "textures/blocks/neutron_collector_front",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "atlas_tile": "avaritia:neutronium_compressor_front",
+    "flipbook_texture": "textures/blocks/neutronium_compressor_front",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "atlas_tile": "avaritia:infinity_block",
+    "flipbook_texture": "textures/blocks/block_infinity",
+    "ticks_per_frame": 4,
+    "blend_frames": true
+  },
+  {
+    "atlas_tile": "avaritia:crystal_matrix",
+    "flipbook_texture": "textures/blocks/crystal_matrix",
+    "ticks_per_frame": 4,
+    "blend_frames": true
+  }
+]

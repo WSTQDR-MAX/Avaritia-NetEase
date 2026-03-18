@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:fire_resistant": {
+                "value": true
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "identifier": "avaritia:iron_singularity"
+        }
+    }
+}

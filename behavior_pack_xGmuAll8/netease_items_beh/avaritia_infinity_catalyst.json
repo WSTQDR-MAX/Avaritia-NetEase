@@ -1,0 +1,17 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§o§8一即全，全即一。"
+            },
+            "netease:fire_resistant": {
+                "value": true
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "identifier": "avaritia:infinity_catalyst"
+        }
+    }
+}

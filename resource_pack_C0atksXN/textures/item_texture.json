@@ -1,0 +1,121 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "avaritia:amethyst_singularity": {
+            "textures": "textures/items/singularity/singularity_amethyst"
+        },
+        "avaritia:copper_singularity": {
+            "textures": "textures/items/singularity/singularity_copper"
+        },
+        "avaritia:cosmic_meatballs": {
+            "textures": "textures/items/meatballs"
+        },
+        "avaritia:crystal_matrix_ingot": {
+            "textures": "textures/items/resource_crystal_matrix_ingot"
+        },
+        "avaritia:diamond_lattice": {
+            "textures": "textures/items/resource_diamond_lattice"
+        },
+        "avaritia:diamond_singularity": {
+            "textures": "textures/items/singularity/singularity_diamond"
+        },
+        "avaritia:emerald_singularity": {
+            "textures": "textures/items/singularity/singularity_emerald"
+        },
+        "avaritia:endest_pearl": {
+            "textures": "textures/items/endestpearl"
+        },
+        "avaritia:fiery_sword": {
+            "textures": "textures/items/skull_sword"
+        },
+        "avaritia:gold_singularity": {
+            "textures": "textures/items/singularity/singularity_gold"
+        },
+        "avaritia:infinity_axe": {
+            "textures": "textures/items/infinity_axe"
+        },
+        "avaritia:infinity_boots": {
+            "textures": "textures/items/infinity_boots"
+        },
+        "avaritia:infinity_bow": {
+            "textures": "textures/items/infinity_bow"
+        },
+        "avaritia:infinity_bow_pulling": {
+            "textures": [
+                "textures/items/infinity_bow_pulling_0",
+                "textures/items/infinity_bow_pulling_1",
+                "textures/items/infinity_bow_pulling_2"
+            ]
+        },
+        "avaritia:infinity_catalyst": {
+            "textures": "textures/items/resource_infinity_catalyst"
+        },
+        "avaritia:infinity_chestplate": {
+            "textures": "textures/items/infinity_chestplate"
+        },
+        "avaritia:infinity_destroyer": {
+            "textures": "textures/items/infinity_destroyer"
+        },
+        "avaritia:infinity_hammer": {
+            "textures": "textures/items/infinity_hammer"
+        },
+        "avaritia:infinity_helmet": {
+            "textures": "textures/items/infinity_helmet"
+        },
+        "avaritia:infinity_hoe": {
+            "textures": "textures/items/infinity_hoe"
+        },
+        "avaritia:infinity_ingot": {
+            "textures": "textures/items/resource_infinity_ingot"
+        },
+        "avaritia:infinity_leggings": {
+            "textures": "textures/items/infinity_leggings"
+        },
+        "avaritia:infinity_pickaxe": {
+            "textures": "textures/items/infinity_pickaxe"
+        },
+        "avaritia:infinity_shovel": {
+            "textures": "textures/items/infinity_shovel"
+        },
+        "avaritia:infinity_singularity": {
+            "textures": "textures/items/singularity/singularity_infinity"
+        },
+        "avaritia:infinity_sword": {
+            "textures": "textures/items/infinity_sword"
+        },
+        "avaritia:iron_singularity": {
+            "textures": "textures/items/singularity/singularity_iron"
+        },
+        "avaritia:lapis_singularity": {
+            "textures": "textures/items/singularity/singularity_lapis"
+        },
+        "avaritia:matter_cluster": {
+            "textures": "textures/items/mattercluster"
+        },
+        "avaritia:netherite_singularity": {
+            "textures": "textures/items/singularity/singularity_netherite"
+        },
+        "avaritia:neutron_nugget": {
+            "textures": "textures/items/resource_neutron_nugget"
+        },
+        "avaritia:neutron_pile": {
+            "textures": "textures/items/resource_neutron_pile"
+        },
+        "avaritia:neutronium_ingot": {
+            "textures": "textures/items/resource_neutronium_ingot"
+        },
+        "avaritia:quartz_singularity": {
+            "textures": "textures/items/singularity/singularity_quartz"
+        },
+        "avaritia:record_fragment": {
+            "textures": "textures/items/resource_record_fragment"
+        },
+        "avaritia:redstone_singularity": {
+            "textures": "textures/items/singularity/singularity_redstone"
+        },
+        "avaritia:ultimate_stew": {
+            "textures": "textures/items/stew"
+        }
+    },
+    "texture_name": "atlas.items"
+}

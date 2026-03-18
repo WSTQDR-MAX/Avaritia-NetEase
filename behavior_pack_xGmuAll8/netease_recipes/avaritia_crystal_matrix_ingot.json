@@ -1,0 +1,40 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "avaritia:crystal_matrix_ingot"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:nether_star"
+            },
+            "F": {
+                "data": 0,
+                "item": "avaritia:diamond_lattice"
+            }
+        },
+        "pattern": [
+            "FEF",
+            "FEF"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "avaritia:crystal_matrix_ingot"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "unlock": [
+            {
+                "data": 0,
+                "item": "avaritia:diamond_lattice"
+            },
+            {
+                "data": 0,
+                "item": "minecraft:nether_star"
+            }
+        ]
+    }
+}

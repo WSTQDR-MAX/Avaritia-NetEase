@@ -1,0 +1,22 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§o§8斩骷髅首级，后烧至焦黑。"
+            },
+            "netease:weapon": {
+                "attack_damage": 7,
+                "enchantment": 10,
+                "level": 10,
+                "speed": 5,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "custom_item_type": "weapon",
+            "identifier": "avaritia:fiery_sword"
+        }
+    }
+}

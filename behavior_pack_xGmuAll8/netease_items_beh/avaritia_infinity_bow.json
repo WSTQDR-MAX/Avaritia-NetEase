@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:use_duration": 72000
+        },
+        "description": {
+            "category": "avaritia",
+            "custom_item_type": "ranged_weapon",
+            "identifier": "avaritia:infinity_bow"
+        }
+    }
+}

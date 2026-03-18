@@ -1,0 +1,82 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.armor.animate": {
+      "arrays": {
+        "textures": {
+          "array.frames": [
+            "texture.frame_1",
+            "texture.frame_2",
+            "texture.frame_3",
+            "texture.frame_4",
+            "texture.frame_5",
+            "texture.frame_6",
+            "texture.frame_7",
+            "texture.frame_8",
+            "texture.frame_9",
+            "texture.frame_8",
+            "texture.frame_7",
+            "texture.frame_6",
+            "texture.frame_5",
+            "texture.frame_4",
+            "texture.frame_3",
+            "texture.frame_2",
+            "texture.frame_1"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "textures": [ "temp.life_time = query.life_time * 8.0; return array.frames[temp.life_time];" ],
+      "materials": [ { "*": "Material.default" }
+      ]
+    },
+    "controller.render.shield_armor": {
+      "geometry": "Geometry.shield",
+      "part_visibility": [ { "*": "query.equipped_item_any_tag('slot.armor.head','infinity_tier') && query.equipped_item_any_tag('slot.armor.chest','infinity_tier') && query.equipped_item_any_tag('slot.armor.legs','infinity_tier') && query.equipped_item_any_tag('slot.armor.feet','infinity_tier')" } ],
+      "materials": [ { "*": "Material.cosmic" } ],
+      "textures": [ "texture.cosmic" ]
+    },
+    "controller.render.avaritia.wings": {
+      "arrays": {
+        "textures": {
+          "array.frames": [
+            "texture.wing1",
+            "texture.wing2",
+            "texture.wing3",
+            "texture.wing4",
+            "texture.wing5",
+            "texture.wing6",
+            "texture.wing7",
+            "texture.wing8",
+            "texture.wing9",
+            "texture.wing10"
+          ]
+        }
+      },
+      "geometry": "Geometry.wing",
+      "textures": [ "temp.life_time = query.life_time * 10.0; return array.frames[temp.life_time];" ],
+      "part_visibility": [ { "*": "query.mod.avaritia_wing == 1.0" } ],
+      "materials": [ { "*": "Material.default" } ]
+    },
+    "controller.render.rainbow_eyes": {
+      "arrays": {
+        "textures": {
+          "array.frames": [
+            "texture.frame_1",
+            "texture.frame_2",
+            "texture.frame_3",
+            "texture.frame_4",
+            "texture.frame_5",
+            "texture.frame_6",
+            "texture.frame_7",
+            "texture.frame_8",
+            "texture.frame_9"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "textures": [ "temp.life_time = query.life_time * 8.0; return array.frames[temp.life_time];" ],
+      "materials": [ { "*": "Material.default" } ]
+    }
+  }
+}

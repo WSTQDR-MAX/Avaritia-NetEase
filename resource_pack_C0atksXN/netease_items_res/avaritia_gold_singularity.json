@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "yellow",
+            "minecraft:icon": "avaritia:gold_singularity",
+            "netease:frame_anim_in_scene": {
+                "texture_path": "textures/items/singularity/singularity_gold",
+                "ticks_per_frame": 1
+            }
+        },
+        "description": {
+            "identifier": "avaritia:gold_singularity"
+        }
+    }
+}

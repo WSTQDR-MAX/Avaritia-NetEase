@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.avaritia_black_hole.expend": {
+			"animation_length": 9.32,
+			"bones": {
+				"black_hole": {
+					"scale": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"8.8": {
+							"post": [10, 10, 10],
+							"lerp_mode": "catmullrom"
+						},
+						"9.32": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "gapingvoid"
+				}
+			},
+			"particle_effects": {
+				"0.0": {
+					"effect": "black_hole_devour",
+					"locator": "black_hole_devour"
+				}
+			}
+		}
+	}
+}

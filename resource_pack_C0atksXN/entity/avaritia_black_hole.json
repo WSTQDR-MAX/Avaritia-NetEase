@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "root": "animation.avaritia_black_hole.expend"
+      },
+      "geometry": {
+        "default": "geometry.avaritia_black_hole"
+      },
+      "identifier": "avaritia:black_hole",
+      "materials": {
+        "default": "agent"
+      },
+      "render_controllers": ["controller.render.agent"],
+      "particle_effects": {
+        "black_hole_devour": "avaritia:black_hole_devour"
+      },
+      "sound_effects": {
+        "gapingVoid": "avaritia.gaping_void"
+      },
+      "scripts": {
+        "animate": ["root"]
+      },
+      "textures": {
+        "default": "textures/entity/black"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§o§8一位笃信音乐带来的自由的人~"
+            },
+            "netease:fire_resistant": {
+                "value": true
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "identifier": "avaritia:record_fragment"
+        }
+    }
+}

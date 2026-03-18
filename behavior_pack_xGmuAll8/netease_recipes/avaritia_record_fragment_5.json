@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "avaritia:record_fragment_5"
+        },
+        "ingredients": [
+            {
+                "count": 1,
+                "data": 0,
+                "item": "minecraft:music_disc_mall"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "avaritia:record_fragment"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "unlock": {
+            "context": "AlwaysUnlocked"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:fire_resistant": {
+                "value": true
+            },
+            "netease:weapon": {
+                "attack_damage": 29,
+                "enchantment": 10,
+                "level": 999,
+                "speed": 999,
+                "type": "hatchet"
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "custom_item_type": "weapon",
+            "identifier": "avaritia:infinity_axe"
+        }
+    }
+}

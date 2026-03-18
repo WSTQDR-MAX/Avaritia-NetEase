@@ -1,0 +1,17 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§o§8汝掌心中者，寰宇之力也。"
+            },
+            "netease:fire_resistant": {
+                "value": true
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "identifier": "avaritia:infinity_ingot"
+        }
+    }
+}

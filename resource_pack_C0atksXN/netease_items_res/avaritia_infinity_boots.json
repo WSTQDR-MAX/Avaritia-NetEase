@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "red",
+            "minecraft:icon": "avaritia:infinity_boots"
+        },
+        "description": {
+            "identifier": "avaritia:infinity_boots"
+        }
+    }
+}

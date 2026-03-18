@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "yellow",
+            "minecraft:icon": "avaritia:quartz_singularity",
+            "netease:frame_anim_in_scene": {
+                "texture_path": "textures/items/singularity/singularity_quartz",
+                "ticks_per_frame": 1
+            }
+        },
+        "description": {
+            "identifier": "avaritia:quartz_singularity"
+        }
+    }
+}

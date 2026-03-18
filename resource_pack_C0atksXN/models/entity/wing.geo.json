@@ -1,0 +1,69 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.avaritia.wing",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "rightWing",
+					"parent": "body",
+					"pivot": [0, 24, 0],
+					"rotation": [0, 2.5, 0],
+					"cubes": [
+						{"origin": [-31.2, 4, 3.1], "size": [28, 30, 0], "pivot": [-3, 0, 0], "rotation": [0, 30, 0], "uv": [1, 34]}
+					]
+				},
+				{
+					"name": "leftWing",
+					"parent": "body",
+					"pivot": [0, 24, 0],
+					"rotation": [0, -2.5, 0],
+					"cubes": [
+						{"origin": [3.2, 4, 3.1], "size": [28, 30, 0], "pivot": [3, 0, 0], "rotation": [0, -30, 0], "uv": [1, 34], "mirror": true}
+					]
+				},
+				{
+					"name": "waist",
+					"pivot": [0, 12, 0]
+				},
+				{
+					"name": "head",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "hat",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "rightArm",
+					"pivot": [-5, 22, 0]
+				},
+				{
+					"name": "leftArm",
+					"pivot": [5, 22, 0],
+					"mirror": true
+				},
+				{
+					"name": "rightLeg",
+					"pivot": [-1.9, 12, 0]
+				},
+				{
+					"name": "leftLeg",
+					"pivot": [1.9, 12, 0],
+					"mirror": true
+				}
+			]
+		}
+	]
+}

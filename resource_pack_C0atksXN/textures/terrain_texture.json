@@ -1,0 +1,45 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "avaritia:compressed_crafting_table": {
+            "textures": "textures/blocks/compressed_crafting_table"
+        },
+        "avaritia:crystal_matrix": {
+            "textures": "textures/blocks/crystal_matrix"
+        },
+        "avaritia:double_compressed_crafting_table": {
+            "textures": "textures/blocks/double_compressed_crafting_table"
+        },
+        "avaritia:extreme_crafting_table_side": {
+            "textures": "textures/blocks/extreme_crafting_table_side"
+        },
+        "avaritia:extreme_crafting_table_top": {
+            "textures": "textures/blocks/extreme_crafting_table_top"
+        },
+        "avaritia:infinity_block": {
+            "textures": "textures/blocks/block_infinity"
+        },
+        "avaritia:neutron_collector_front": {
+            "textures": "textures/blocks/neutron_collector_front"
+        },
+        "avaritia:neutron_collector_side": {
+            "textures": "textures/blocks/neutron_collector_side"
+        },
+        "avaritia:neutron_collector_top": {
+            "textures": "textures/blocks/neutron_collector_top"
+        },
+        "avaritia:neutronium_block": {
+            "textures": "textures/blocks/block_neutronium"
+        },
+        "avaritia:neutronium_compressor_front": {
+            "textures": "textures/blocks/neutronium_compressor_front"
+        },
+        "avaritia:neutronium_compressor_side": {
+            "textures": "textures/blocks/neutronium_compressor_side"
+        },
+        "avaritia:neutronium_compressor_top": {
+            "textures": "textures/blocks/neutronium_compressor_top"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

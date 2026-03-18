@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "light_purple",
+            "minecraft:icon": "avaritia:infinity_catalyst",
+            "netease:frame_anim_in_scene": {
+                "texture_path": "textures/items/resource_infinity_catalyst",
+                "ticks_per_frame": 2
+            }
+        },
+        "description": {
+            "identifier": "avaritia:infinity_catalyst"
+        }
+    }
+}

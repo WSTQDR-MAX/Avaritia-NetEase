@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "red",
+            "minecraft:icon": "avaritia:infinity_bow",
+            "netease:frame_anim_in_scene": {
+                "texture_path": "textures/items/infinity_bow",
+                "ticks_per_frame": 2
+            },
+            "netease:frame_animation": {
+                "animate_in_toolbar": true,
+                "frame_count": 3,
+                "texture_name": "avaritia:infinity_bow_pulling"
+            }
+        },
+        "description": {
+            "identifier": "avaritia:infinity_bow"
+        }
+    }
+}

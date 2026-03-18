@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 0,
+            "netease:armor": {
+                "armor_slot": 1,
+                "defense": 16,
+                "enchantment": 10,
+                "knockback_resistance": 1.0,
+                "toughness": 1
+            },
+            "netease:fire_resistant": {
+                "value": true
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "custom_item_type": "armor",
+            "identifier": "avaritia:infinity_chestplate"
+        }
+    }
+}

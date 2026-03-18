@@ -1,0 +1,28 @@
+{
+    "avaritia:compressed_crafting_table": {
+        "sound": "wood"
+    },
+    "avaritia:double_compressed_crafting_table": {
+        "sound": "wood"
+    },
+    "avaritia:extreme_crafting_table": {
+        "sound": "glass"
+    },
+    "avaritia:infinity_block": {
+        "sound": "stone"
+    },
+    "avaritia:neutron_collector": {
+        "sound": "glass"
+    },
+    "avaritia:neutronium_block": {
+        "sound": "stone"
+    },
+    "avaritia:neutronium_compressor": {
+        "sound": "glass"
+    },
+    "format_version": [
+        1,
+        1,
+        0
+    ]
+}

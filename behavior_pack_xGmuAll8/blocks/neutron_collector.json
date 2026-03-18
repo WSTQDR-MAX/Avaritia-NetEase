@@ -1,0 +1,86 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "avaritia:neutron_collector",
+      "base_block": "netease_container",
+      "menu_category": {
+        "category": "avaritia"
+      },
+      "traits": {
+        "minecraft:placement_direction": {
+          "y_rotation_offset": 180,
+          "enabled_states": ["minecraft:cardinal_direction"]
+        }
+      }
+    },
+    "components": {
+      "netease:block_entity":{
+        "tick": true
+      },
+      "netease:block_container": {
+				"custom_description": "中子态素收集器",
+				"screen_name": "NeutronCollector.neutron_collector_screen",
+				"container_size": 1
+			},
+      "netease:tier": {
+        "destroy_special": true,
+        "digger": "pickaxe",
+        "level": 3
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 20
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 20
+      },
+      "minecraft:light_dampening": 0,
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "avaritia:neutron_collector_side",
+          "render_method": "alpha_test"
+        },
+        "up": {
+          "texture": "avaritia:neutron_collector_top",
+          "render_method": "alpha_test"
+        },
+        "north": {
+          "texture": "avaritia:neutron_collector_front",
+          "render_method": "alpha_test"
+        }
+      },
+      "minecraft:collision_box": {
+        "origin": [-8, 0, -8],
+        "size": [16, 16, 16]
+      },
+      "minecraft:selection_box": {
+        "origin": [-8, 0, -8],
+        "size": [16, 16, 16]
+      },
+      "minecraft:map_color": "#A0A0A0"
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction') == 'north'",
+        "components": { "minecraft:transformation": { "rotation": [0, 0, 0] } }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction') == 'east'",
+        "components": {
+          "minecraft:transformation": { "rotation": [0, 270, 0] }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction') == 'south'",
+        "components": {
+          "minecraft:transformation": { "rotation": [0, 180, 0] }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction') == 'west'",
+        "components": { "minecraft:transformation": { "rotation": [0, 90, 0] } }
+      }
+    ]
+  }
+}

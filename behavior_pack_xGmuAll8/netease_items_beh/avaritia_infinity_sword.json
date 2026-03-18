@@ -1,0 +1,25 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§cI§6n§eƒ§2i§an§bi§9t§dy"
+            },
+            "netease:fire_resistant": {
+                "value": true
+            },
+            "netease:weapon": {
+                "attack_damage": 1,
+                "enchantment": 10,
+                "level": 999,
+                "speed": 5,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "custom_item_type": "weapon",
+            "identifier": "avaritia:infinity_sword"
+        }
+    }
+}

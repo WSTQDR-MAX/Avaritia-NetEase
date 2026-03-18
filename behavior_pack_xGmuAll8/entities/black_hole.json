@@ -1,0 +1,50 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:entity": {
+        "component_groups": {
+
+        },
+        "components": {
+            "minecraft:collision_box": {
+                "height": 0,
+                "width": 0
+            },
+            "minecraft:fire_immune": true,
+            "minecraft:health": {
+                "max": 9999,
+                "value": 9999
+            },
+            "minecraft:knockback_resistance": {
+                "max": 100,
+                "value": 100
+            },
+            "minecraft:persistent": {
+
+            },
+            "minecraft:physics": {
+                "has_collision": false,
+                "has_gravity": false
+            },
+            "minecraft:pushable": {
+                "is_pushable": false,
+                "is_pushable_by_piston": false
+            },
+            "minecraft:type_family": {
+                "family": [
+                    "inanimate",
+                    "black_hole",
+                    "void"
+                ]
+            }
+        },
+        "description": {
+            "identifier": "avaritia:black_hole",
+            "is_experimental": false,
+            "is_spawnable": false,
+            "is_summonable": true
+        },
+        "events": {
+
+        }
+    }
+}

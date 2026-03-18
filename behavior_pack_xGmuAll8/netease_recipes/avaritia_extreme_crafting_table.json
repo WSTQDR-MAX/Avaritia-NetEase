@@ -1,0 +1,41 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "avaritia:extreme_crafting_table"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "avaritia:double_compressed_crafting_table"
+            },
+            "I": {
+                "data": 0,
+                "item": "avaritia:crystal_matrix_ingot"
+            }
+        },
+        "pattern": [
+            "III",
+            "IEI",
+            "III"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "avaritia:extreme_crafting_table"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "unlock": [
+            {
+                "data": 0,
+                "item": "avaritia:crystal_matrix_ingot"
+            },
+            {
+                "data": 0,
+                "item": "avaritia:double_compressed_crafting_table"
+            }
+        ]
+    }
+}

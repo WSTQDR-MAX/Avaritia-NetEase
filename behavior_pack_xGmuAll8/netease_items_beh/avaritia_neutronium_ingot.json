@@ -1,0 +1,17 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§o§8致密恒星之心，化为一锭。"
+            },
+            "netease:fire_resistant": {
+                "value": true
+            }
+        },
+        "description": {
+            "category": "avaritia",
+            "identifier": "avaritia:neutronium_ingot"
+        }
+    }
+}

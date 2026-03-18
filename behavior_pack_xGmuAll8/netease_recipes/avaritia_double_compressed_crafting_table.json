@@ -1,0 +1,29 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "avaritia:double_compressed_crafting_table"
+        },
+        "ingredients": [
+            {
+                "count": 9,
+                "data": 0,
+                "item": "avaritia:compressed_crafting_table"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "avaritia:double_compressed_crafting_table"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "unlock": [
+            {
+                "data": 0,
+                "item": "avaritia:compressed_crafting_table"
+            }
+        ]
+    }
+}

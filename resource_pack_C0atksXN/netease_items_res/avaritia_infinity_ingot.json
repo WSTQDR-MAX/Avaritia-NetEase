@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "red",
+            "minecraft:icon": "avaritia:infinity_ingot",
+            "netease:frame_anim_in_scene": {
+                "texture_path": "textures/items/resource_infinity_ingot",
+                "ticks_per_frame": 16
+            }
+        },
+        "description": {
+            "identifier": "avaritia:infinity_ingot"
+        }
+    }
+}

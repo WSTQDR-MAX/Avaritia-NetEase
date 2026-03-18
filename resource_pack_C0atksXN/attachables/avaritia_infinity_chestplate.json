@@ -1,0 +1,47 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+        "description": {
+            "geometry": {
+                "default": "geometry.avaritia.chestplate",
+                "wing": "geometry.avaritia.wing"
+            },
+            "identifier": "avaritia:infinity_chestplate",
+            "materials": {
+                "default": "entity_emissive_alpha",
+                "enchanted": "armor_enchanted"
+            },
+            "render_controllers": [
+                "controller.render.armor",
+                "controller.render.armor.animate",
+                "controller.render.avaritia.wings"
+            ],
+            "scripts": {
+                "parent_setup": "variable.chest_layer_visible = 0.0;"
+            },
+            "textures": {
+                "default": "textures/models/infinity_armor",
+                "enchanted": "textures/misc/enchanted_item_glint",
+                "frame_1": "textures/models/cosmic/armor/1",
+                "frame_2": "textures/models/cosmic/armor/2",
+                "frame_3": "textures/models/cosmic/armor/3",
+                "frame_4": "textures/models/cosmic/armor/4",
+                "frame_5": "textures/models/cosmic/armor/5",
+                "frame_6": "textures/models/cosmic/armor/6",
+                "frame_7": "textures/models/cosmic/armor/7",
+                "frame_8": "textures/models/cosmic/armor/8",
+                "frame_9": "textures/models/cosmic/armor/9",
+                "wing1": "textures/models/cosmic/wing/1",
+                "wing10": "textures/models/cosmic/wing/10",
+                "wing2": "textures/models/cosmic/wing/2",
+                "wing3": "textures/models/cosmic/wing/3",
+                "wing4": "textures/models/cosmic/wing/4",
+                "wing5": "textures/models/cosmic/wing/5",
+                "wing6": "textures/models/cosmic/wing/6",
+                "wing7": "textures/models/cosmic/wing/7",
+                "wing8": "textures/models/cosmic/wing/8",
+                "wing9": "textures/models/cosmic/wing/9"
+            }
+        }
+    }
+}

@@ -1,0 +1,176 @@
+[
+    {
+        "atlas_tile": "avaritia:infinity_sword",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_sword",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_catalyst",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/resource_infinity_catalyst",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:fiery_sword",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/skull_sword",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_ingot",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/resource_infinity_ingot",
+        "ticks_per_frame": 16
+    },
+    {
+        "atlas_tile": "avaritia:neutronium_ingot",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/resource_neutronium_ingot",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:iron_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_iron",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:copper_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_copper",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:gold_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_gold",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:diamond_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_diamond",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:lapis_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_lapis",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:redstone_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_redstone",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:quartz_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_quartz",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:emerald_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_emerald",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:netherite_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_netherite",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:amethyst_singularity",
+        "blend_frames": false,
+        "flipbook_texture": "textures/items/singularity/singularity_amethyst",
+        "ticks_per_frame": 1
+    },
+    {
+        "atlas_tile": "avaritia:infinity_singularity",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/singularity/singularity_infinity",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:ultimate_stew",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/stew",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:cosmic_meatballs",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/meatballs",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:endest_pearl",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/endestpearl",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_shovel",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_shovel",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_pickaxe",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_pickaxe",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_axe",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_axe",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_chestplate",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_chestplate",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_leggings",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_leggings",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_hoe",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_hoe",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_bow",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_bow",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_destroyer",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_destroyer",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:infinity_hammer",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/infinity_hammer",
+        "ticks_per_frame": 2
+    },
+    {
+        "atlas_tile": "avaritia:matter_cluster",
+        "blend_frames": true,
+        "flipbook_texture": "textures/items/mattercluster",
+        "ticks_per_frame": 2
+    }
+]

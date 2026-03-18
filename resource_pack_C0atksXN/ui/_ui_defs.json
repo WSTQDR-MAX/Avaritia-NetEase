@@ -1,0 +1,7 @@
+{
+    "ui_defs": [
+        "ui/AvaritiaExtremeCraftingTable.json",
+        "ui/AvaritiaNeutronCollector.json",
+        "ui/AvaritiaNeutroniumCompressor.json"
+    ]
+}
